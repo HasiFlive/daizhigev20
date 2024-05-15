@@ -1,4 +1,7 @@
-# daizhigev20
+# daizhigev20-vanilla
+
+佛藏修改版
+更新内容，加入續藏经，明朝版，
 殆知阁古代文献txt大全集
 
 ## 百度云链接已失效，下载请直接点击项目右上角绿色的‘clone or download’键！！！
